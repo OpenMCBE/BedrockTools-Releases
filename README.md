@@ -8,6 +8,9 @@ A utility tool that provides various enhancements made specifically for LeviLaun
 - NoFog Module
 - Custom Fog Color Module
 - Day & Night Mod Menu Theme
+- Ping Counter Module
+- Arm Swing Module
+- Force Coordinates Module
 
 **Requirements**
 
@@ -22,5 +25,4 @@ A utility tool that provides various enhancements made specifically for LeviLaun
 
 ## Known Issues
 
-- Search modules not working
 - Shortcut button being always locked
