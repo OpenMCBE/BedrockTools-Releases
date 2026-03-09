@@ -31,4 +31,5 @@ Minecraft Bedrock 26.3
 
 ## Known Issues
 
+- Search modules not working
 - Shortcut button is always locked
