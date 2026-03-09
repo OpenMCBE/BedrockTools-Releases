@@ -1,4 +1,10 @@
-A utility tool that provides various enhancements made specifically for LeviLauncher (Android)
+A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
+
+## Current Version
+BedrockTools v1.0.1
+
+## Supported Minecraft Version
+Minecraft Bedrock 26.3
 
 ## Features
 
@@ -12,17 +18,17 @@ A utility tool that provides various enhancements made specifically for LeviLaun
 - Arm Swing Module
 - Force Coordinates Module
 
-**Requirements**
+## Requirements
 
-* LeviLauncher (Android) — <https://github.com/LiteLDev/LeviLaunchroid>
-* libBedrockTools — [Releases](https://github.com/OpenMCBE/BedrockTools-Releases/releases)
+* LeviLauncher (Android) — https://github.com/LiteLDev/LeviLaunchroid
+* libBedrockTools — https://github.com/OpenMCBE/BedrockTools-Releases/releases
 
-**Installation**
+## Installation
 
-* Install LeviLauncher
-* Add libBedrockTools mod in LeviLauncher
-* Launch MC through LeviLauncher
+1. Install LeviLauncher
+2. Add the libBedrockTools mod in LeviLauncher
+3. Launch Minecraft through LeviLauncher
 
 ## Known Issues
 
-- Shortcut button being always locked
+- Shortcut button is always locked
