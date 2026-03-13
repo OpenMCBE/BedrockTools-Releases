@@ -17,6 +17,7 @@ Minecraft Bedrock 26.3
 - Ping Counter Module
 - Arm Swing Module
 - Force Coordinates Module
+- Time Changer Module
 
 ## Requirements
 
