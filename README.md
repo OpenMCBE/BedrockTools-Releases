@@ -1,7 +1,7 @@
 A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
 
 ## Current Version
-BedrockTools v1.0.1
+BedrockTools v1.0.2
 
 ## Supported Minecraft Version
 Minecraft Bedrock 26.3
