@@ -1,10 +1,10 @@
 A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
 
 ## Current Version
-BedrockTools v1.0.2
+BedrockTools v1.0.6
 
 ## Supported Minecraft Version
-Minecraft Bedrock 26.3
+Minecraft Bedrock 26.12
 
 ## Features
 
@@ -18,6 +18,10 @@ Minecraft Bedrock 26.3
 - Arm Swing Module
 - Force Coordinates Module
 - Time Changer Module
+- Speed Display Module
+- DirectionHUD module
+- ForceCoords Module
+- No Disconnect Module
 
 ## Requirements
 
@@ -33,4 +37,3 @@ Minecraft Bedrock 26.3
 ## Known Issues
 
 - Search modules not working
-- Shortcut button is always locked
