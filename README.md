@@ -1,7 +1,7 @@
 A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
 
 ## Current Version
-BedrockTools v1.0.6
+BedrockTools v1.0.7
 
 ## Supported Minecraft Version
 Minecraft Bedrock 26.12
@@ -22,6 +22,7 @@ Minecraft Bedrock 26.12
 - DirectionHUD module
 - ForceCoords Module
 - No Disconnect Module
+- Waypoints Module
 
 ## Requirements
 
@@ -33,7 +34,3 @@ Minecraft Bedrock 26.12
 1. Install LeviLauncher
 2. Add the libBedrockTools mod in LeviLauncher
 3. Launch Minecraft through LeviLauncher
-
-## Known Issues
-
-- Search modules not working
