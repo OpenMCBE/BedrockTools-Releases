@@ -1,7 +1,7 @@
 A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
 
 ## Current Version
-BedrockTools v1.0.7
+BedrockTools v1.0.8
 
 ## Supported Minecraft Version
 Minecraft Bedrock 26.12
@@ -23,6 +23,7 @@ Minecraft Bedrock 26.12
 - ForceCoords Module
 - No Disconnect Module
 - Waypoints Module
+- Debug Menu Module
 
 ## Requirements
 
