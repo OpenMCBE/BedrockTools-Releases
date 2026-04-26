@@ -1,37 +1,51 @@
-A utility tool that provides various enhancements made specifically for LeviLauncher (Android).
+# BedrockTools
+
+A utility tool that provides various enhancements for Minecraft Bedrock Edition on Android launchers.
 
 ## Current Version
-BedrockTools v1.0.8
+**BedrockTools v1.0.9**
 
 ## Supported Minecraft Version
-Minecraft Bedrock 26.12
+**Minecraft Bedrock 26.13**
 
 ## Features
 
-- Customizable ImGUI Mod Menu
-- Third Person Nametag Module
-- Fullbright Module
-- NoFog Module
-- Custom Fog Color Module
-- Day & Night Mod Menu Theme
-- Ping Counter Module
-- Arm Swing Module
-- Force Coordinates Module
-- Time Changer Module
-- Speed Display Module
-- DirectionHUD module
-- ForceCoords Module
-- No Disconnect Module
-- Waypoints Module
-- Debug Menu Module
+- Customizable ImGUI Mod Menu  
+- Third Person Nametag Module  
+- Fullbright Module  
+- NoFog Module  
+- Custom Fog Color Module  
+- Day & Night Mod Menu Theme  
+- Ping Counter Module  
+- Arm Swing Module  
+- Force Coordinates Module  
+- Time Changer Module  
+- Speed Display Module  
+- DirectionHUD Module  
+- No Disconnect Module  
+- Waypoints Module  
+- Weather Changer Module  
+
+## Launchers
+BedrockTools works with the following launchers:
+- LeviLauncher (Android) — https://github.com/LiteLDev/LeviLaunchroid  
+- Ambient Launcher — https://play.google.com/store/apps/details?id=io.kitsuri.mayape  
+
+> Note: Compatibility may vary depending on the release.
 
 ## Requirements
 
-* LeviLauncher (Android) — https://github.com/LiteLDev/LeviLaunchroid
-* libBedrockTools — https://github.com/OpenMCBE/BedrockTools-Releases/releases
+- A supported launcher  
+- libBedrockTools — https://github.com/OpenMCBE/BedrockTools-Releases/releases  
 
 ## Installation
 
-1. Install LeviLauncher
-2. Add the libBedrockTools mod in LeviLauncher
-3. Launch Minecraft through LeviLauncher
+### LeviLauncher
+1. Install LeviLauncher  
+2. Add the `libBedrockTools-levi` mod  
+3. Launch Minecraft through LeviLauncher  
+
+### Ambient Launcher
+1. Install Ambient Launcher from the Play Store  
+2. Import or load the `libBedrockTools-ambient` mod  
+3. Launch Minecraft through Ambient Launcher  
