@@ -3,7 +3,7 @@
 A utility tool that provides various enhancements for Minecraft Bedrock Edition on Android launchers.
 
 ## Current Version
-**BedrockTools v1.0.9**
+**BedrockTools v1.1.0**
 
 ## Supported Minecraft Version
 **Minecraft Bedrock 26.13**
@@ -24,7 +24,8 @@ A utility tool that provides various enhancements for Minecraft Bedrock Edition 
 - DirectionHUD Module  
 - No Disconnect Module  
 - Waypoints Module  
-- Weather Changer Module  
+- Weather Changer Module
+- Motion Blur Module
 
 ## Launchers
 BedrockTools works with the following launchers:
