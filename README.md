@@ -3,10 +3,10 @@
 A utility tool that provides various enhancements for Minecraft Bedrock Edition on Android launchers.
 
 ## Current Version
-**BedrockTools v1.1.0**
+**BedrockTools v1.2.0**
 
 ## Supported Minecraft Version
-**Minecraft Bedrock 26.13**
+**Minecraft Bedrock 26.20**
 
 ## Features
 
